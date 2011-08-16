@@ -1,0 +1,138 @@
+
+* { padding: 0; margin: 0; }
+
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 13px;
+ background: #FFFFFF;
+}
+
+h2 {letter-spacing: 2px}
+
+#wrapper { 
+ margin: 0 auto;
+ width: 922px;
+}
+
+#header {
+ width: 902px;
+ padding: 10px;
+ height: 100px;
+ margin: 10px 0px 5px 0px;
+ font-size: 48px;
+ letter-spacing: -1px;
+ padding: 0 10 0 0;
+ font-weight: 100;
+ font-family:Georgia,serif;
+ color:#4E443C;
+ font-variant: small-caps; text-transform: none; font-weight: 100; margin-bottom: 0;
+}
+
+#rule {
+ background: #ABBEBE;
+ height: 5px;
+ padding: 1px;
+}
+
+#rulebottom {
+ background: #ABBEBE;
+ height: 5px;
+ padding: 1px;
+ margin-top: 50px;
+ margin-bottom: 10px;
+}
+
+p:first-letter {
+ text-transform: uppercase;
+}
+
+#description {
+ color: #444;
+ padding: 10px;
+ margin: 0px 0px 50px 0px;
+ height: 100px;
+ width: 400px;
+ float: right;
+ background: #FFFFFF; 
+ color: #424242;
+ font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+ letter-spacing:0.1em;
+ text-align:center;
+ margin: 40px auto;
+ text-transform: lowercase;
+ line-height: 145%;
+ font-size: 14pt;
+ font-variant: small-caps;
+}
+
+#name {
+ letter-spacing: 1px;
+ font-family:Georgia,serif;
+ font-size: 16pt;
+ color: #444;
+ font-style: normal;
+ font-variant: small-caps; text-transform: none; font-weight: 100; margin-bottom: 0;
+}
+
+#bio {
+ position: absolute;
+ margin-left: 10px;
+ margin-top: 14px;
+ font-size: 10pt;
+ color: #000;
+ line-height: 150%;
+ letter-spacing: 1px;
+ font-style: normal;
+}
+
+#title1 { 
+ display: block;
+ margin-left: 10px;
+ margin-top: 50px;
+ padding: 0px;
+ width: 470px;
+ position: relative;
+}
+
+#title2 {
+ display: block;
+ margin-left: 10px;
+ margin-top: 50px;
+ padding: 0px;
+ width: 470px;
+ position: relative;
+}
+
+#title3 { 
+ display: block;
+ margin-left: 10px;
+ margin-top: 50px;
+ padding: 0px;
+ width: 470px;
+ position: relative;
+}
+
+#title4 { 
+ display: block;
+ margin-left: 10px;
+ margin-top: 50px;
+ padding: 0px;
+ width: 470px;
+ position: relative;
+}
+
+#footer { 
+ clear: both;
+ color: #000;
+ margin-bottom: 10px;
+ font-size: 10pt;
+ font-style: italic
+}
+
+#img {
+ margin-top: 15px;
+ height: 85px;
+ width: 85px;
+}
+
+.clear { clear: both; background: none; }
