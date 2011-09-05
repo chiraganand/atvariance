@@ -172,4 +172,8 @@ li {
  width: 85px;
 }
 
+#email {
+ font-variant: normal;
+}
+
 .clear { clear: both; background: none; }
