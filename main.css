@@ -30,15 +30,14 @@ h2 {letter-spacing: 2px}
 
 #rule {
  background: #ABBEBE;
- height: 5px;
+ height: 2px;
 }
 
 #rulebottom {
  background: #ABBEBE;
- height: 5px;
- padding: 1px;
- margin-top: 50px;
- margin-bottom: 10px;
+ height: 2px;
+ margin-top: 20px;
+ margin-bottom: 5px;
 }
 
 p:first-letter {
@@ -121,9 +120,10 @@ p:first-letter {
 
 #footer { 
  clear: both;
- color: #000;
+ color: #666;
  margin-bottom: 5px;
  font-size: 10pt;
+ text-align: center;
  font-style: italic
 }
 
